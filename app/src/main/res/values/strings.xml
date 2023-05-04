@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">WordADay</string>
+    <string name="random_word_button_text">Random Word</string>
+</resources>
