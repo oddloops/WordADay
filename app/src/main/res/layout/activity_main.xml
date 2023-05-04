@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xmlns:app="http://schemas.android.com/apk/res-auto"?>
 
 <androidx.constraintlayout.widget.ConstraintLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
@@ -47,7 +46,7 @@
         app:layout_constraintVertical_bias="0.161" />
 
     <TextView
-        android:id="@+id/defintion_textview"
+        android:id="@+id/definition_textview"
         android:layout_width="0dp"
         android:layout_height="27dp"
         android:textSize="18sp"
