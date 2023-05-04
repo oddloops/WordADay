@@ -12,50 +12,50 @@
     <Button
         android:id="@+id/random_word_button"
         android:layout_width="231dp"
-        android:layout_height="199dp"
+        android:layout_height="220dp"
         android:background="@drawable/circle_button"
         android:text="@string/random_word_button_text"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.672" />
+        app:layout_constraintVertical_bias="0.767" />
 
     <TextView
         android:id="@+id/word_textview"
-        android:layout_width="0dp"
-        android:layout_height="27dp"
+        android:layout_width="326dp"
+        android:layout_height="36dp"
         android:textSize="24sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintHorizontal_bias="0.494"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.092" />
+        app:layout_constraintVertical_bias="0.063" />
 
     <TextView
         android:id="@+id/pronunciation_textview"
-        android:layout_width="0dp"
-        android:layout_height="27dp"
+        android:layout_width="326dp"
+        android:layout_height="36dp"
         android:textSize="18sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintHorizontal_bias="0.494"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.161" />
 
     <TextView
         android:id="@+id/definition_textview"
-        android:layout_width="0dp"
-        android:layout_height="27dp"
+        android:layout_width="336dp"
+        android:layout_height="174dp"
         android:textSize="18sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintHorizontal_bias="0.493"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.225" />
+        app:layout_constraintVertical_bias="0.31" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
 
