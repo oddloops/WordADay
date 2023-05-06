@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">WordADay</string>
+    <string name="app_name">Word A Day</string>
     <string name="random_word_button_text">Random Word</string>
     <string name="try_me_button_text">Try</string>
 </resources>
